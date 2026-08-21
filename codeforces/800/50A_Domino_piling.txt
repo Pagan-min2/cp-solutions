@@ -1,2 +1,2 @@
-# Problem: Domino piling
-# URL: https://codeforces.com/contest/50/submission/387935103
+x, y = map(int, input().split())
+print(int(x * y / 2))

@@ -1,2 +1,10 @@
-# Problem: The 67th Integer Problem
-# URL: https://codeforces.com/contest/2218/submission/387937421
+n = int(input())
+user_input = []
+output = []
+for x in range(n):
+    i = int(input())
+    user_input.append(i)
+    output.append(i)
+
+for x in range(n):
+    print(output[x])

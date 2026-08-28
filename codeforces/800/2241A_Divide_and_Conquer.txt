@@ -1,3 +1,8 @@
-# Problem: Divide and Conquer
-# Contest: 2241 | Submission: 388628390
-# URL: https://codeforces.com/contest/2241/submission/388628390
+n = int(input())
+while n > 0:
+    a,b = map(int,input().split())
+    if(a%b == 0):
+        print("YES")
+    else:
+        print("NO")
+    n -= 1

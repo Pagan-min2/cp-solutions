@@ -1,0 +1,3 @@
+# Problem: Divide and Conquer
+# Contest: 2241 | Submission: 388628390
+# URL: https://codeforces.com/contest/2241/submission/388628390

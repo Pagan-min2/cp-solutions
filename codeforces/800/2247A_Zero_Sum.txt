@@ -1,0 +1,2 @@
+# Problem: Zero Sum
+# URL: https://codeforces.com/contest/2247/submission/388724262

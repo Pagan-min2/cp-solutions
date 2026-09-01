@@ -1,0 +1,2 @@
+# Problem: You Delete, I Delete
+# URL: https://codeforces.com/contest/2248/submission/388520625

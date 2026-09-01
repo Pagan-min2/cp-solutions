@@ -1,0 +1,2 @@
+# Problem: Creating Abbreviations
+# URL: https://codeforces.com/contest/2257/submission/388406586
